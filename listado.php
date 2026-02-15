@@ -41,6 +41,7 @@
             $res= $conex->query($sql);
         
             echo "<h1 class='text-center my-4'>Resultado de la consulta de usuarios modificado</h1>";
+            echo "<h1 class='text-center my-4'>Resultado de la consulta de usuarios modificado</h1>";
             echo "<div class='container'>";
             echo "<table class='table table-bordered table-hover shadow'>";
                 echo "<thead>";
